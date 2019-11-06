@@ -97,6 +97,97 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+ ul {
+ margin:0 0 0 100px; 
+ }
+
+  
+  #menu li {
+    display:inline-block;
+    margin:0 20px 0 0 ;
+    color:#d6904e;
+
+  }
+
+  #redes{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+
+ #redes li {
+    display:inline-block;
+    margin:0 200px 0 0 ;
+    color:#d6904e;
+    font-size: 25px;
+
+  }
+
+.icon{
+  width:100px;
+}
+
+#header{
+  margin-left: 100px;
+  padding:25px;
+  color:#d6904e;
+  font-size:23px;
+}
+
+#subtitulo{
+  margin: 10px 10px 10px 10px; 
+  margin-top:100px;
+  text-align: center;
+  color: black;
+}
+  
+
+#mail{
+  margin: 10px 10px 10px 10px; 
+  margin-top:100px;
+  text-align:center;
+
+}
+
+#direccion{
+  margin: 10px 10px 10px 10px; 
+  margin-top:100px;
+  text-align:center;
+  color:black ;
+  font-size:23px;
+
+}
+
+h2, h3,h4{
+  font-size: 50px;
+}
+
+#footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin:0 auto;
+  padding: 12px;
+}
+
+a{
+  color:#d6904e;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#d6904e;
+  text-decoration: underline;
+  filter: blur(1px);
+  transition: .3 ease-in-out;
+}
+
 
 /* ==========================================================================
    Helper classes
