@@ -261,19 +261,14 @@ background: #b3d4fc;
 
 }
   
-  #menu li {
+  .menu{
     display:inline-block;
     margin:0 20px 0 0 ;
     color:white;
 
   }
 
-    #menuu li {
-    display:inline-block;
-    margin:0 20px 0 0 ;
-    color:white;
 
-  }
 
 #menuuu li {
     display:inline-block;
