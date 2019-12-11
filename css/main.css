@@ -106,13 +106,6 @@ body{
  margin:0 0 0 100px; 
  }
 
-  
-  #menu li {
-    display:inline-block;
-    margin:0 20px 0 0 ;
-    color:#d6904e;
-
-  }
 
   #redes{
     margin-top: 50px;
@@ -120,13 +113,16 @@ body{
     margin-bottom: 50px;
   }
 
+a{
+  color:#d6904e;
+  text-decoration: none;
+}
 
  #redes li {
     display:inline-block;
     margin:0 200px 0 0 ;
     color:#d6904e;
-    font-size: 25px;
-
+ 	  font-size: 25px ;
   }
 
 .icon{
@@ -136,7 +132,7 @@ body{
 #header{
   margin-left: 100px;
   padding:25px;
-  color:#d6904e;
+  color:white;
   font-size:23px;
 }
 
@@ -187,6 +183,209 @@ a:hover{
   filter: blur(1px);
   transition: .3 ease-in-out;
 }
+
+
+
+#start{
+	  margin: 10px 10px 10px 10px; 
+  	margin-top:150px;
+  	text-align: center;
+  	color: white; 
+
+}
+
+#start h1{
+  font-weight: 700;
+  font-size:50px;
+}
+
+
+
+#aboutme{
+	margin: 10px 10px 10px 10px; 
+  	margin-top:50px;
+  	text-align: center;
+  	color: white;
+  	font-size: 25px
+
+}
+
+#startbg{
+
+ background-color:#f28d35;
+
+}
+
+#abajo{
+margin: 0- auto;
+text-align: center;
+margin-bottom: 100px;
+}
+
+ #abajo img {
+width: 50px;
+margin-top: 180px;
+ }
+
+
+ .slider {
+margin-top: 5%;
+background: #b3d4fc; 
+ }
+
+#primera  h3 {
+    margin: 10px 10px 10px 10px; 
+    margin-top: 20% ;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+
+#temas img {
+  width:100%;
+  max-width: 100%;
+  padding: 12px;
+}
+
+
+#inicio {
+  margin: 20px 0px 20px 0px;
+}
+
+#headerr{
+  margin-left: 100px;
+  padding:25px;
+  color:#d6904e;
+  font-size:23px;
+
+}
+  
+  #menu li {
+    display:inline-block;
+    margin:0 20px 0 0 ;
+    color:white;
+
+  }
+
+    #menuu li {
+    display:inline-block;
+    margin:0 20px 0 0 ;
+    color:white;
+
+  }
+
+#menuuu li {
+    display:inline-block;
+    margin:0 20px 0 0 ;
+    color:#d6904e;
+
+  }
+
+.bx-wrapper {
+    -moz-box-shadow: 0 0 0px #ccc !important;
+    webkit-box-shadow: 0 0 0px #ccc !important;
+    box-shadow: 0 0 0px #ccc !important;
+    border: 0px solid #fff !important;
+    background: rgba(0,0,0,0) !important;
+}
+
+.bannerhome{
+  width: 100%;
+  max-width: 100%;
+}
+
+#gridimages img{
+  padding-right: 50px;
+  margin-top: 30px;
+  width: 100%;
+  max-width: 100%;
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+
+#rowimages img{
+  padding-right: 50px;
+  margin-top: 30px;
+  width: 100%;
+  max-width: 100%;
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+
+.mosaic p{
+  opacity: 100;
+  margin-top: -550px;
+  color:#111;
+  font-size: 40px;
+  font-style: bold;
+  z-index: 10;
+  position: absolute;
+  padding: 270px;
+}
+
+.mosaic p:hover{
+  opacity: 100;
+  transition: 1s ease;
+}
+
+.design p{
+  opacity: 100;
+  margin-top: -550px;
+  color:#111;
+  font-size: 40px;
+  font-style: bold;
+  z-index: 10;
+  position: absolute;
+  padding: 270px;
+}
+
+.design p:hover{
+  opacity: 100;
+  transition: 1s ease;
+}
+
+.editorial p{
+  opacity: 100;
+  margin-top: -550px;
+  color:#111;
+  font-size: 40px;
+  font-style: bold;
+  z-index: 10;
+  position: absolute;
+  padding: 270px;
+}
+
+.editorial p:hover{
+  opacity: 100;
+  transition: 1s ease;
+}
+
+.typography p{
+  opacity: 100;
+  margin-top: -550px;
+  color:#111;
+  font-size: 40px;
+  font-style: bold;
+  z-index: 10;
+  position: absolute;
+  padding: 270px;
+}
+
+.typography p:hover{
+  opacity: 100;
+  transition: 1s ease;
+}
+
+
+
+
+
+
 
 
 /* ==========================================================================
